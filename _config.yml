@@ -38,7 +38,7 @@ features                                  :
 
   - title                                 : High speed, Multiple nodes
     description                           : Enjoy lightning-fast speeds and connect to a vast network of nodes for optimal performance and versatility.
-    fontawesome_icon_name                 : rocket-launch
+    fontawesome_icon_name                 : rocket
     
   - title                                 : Security, Privacy, No logs
     description                           : Safeguard your online activities, maintain complete privacy, and have peace of mind knowing that no logs are kept.
