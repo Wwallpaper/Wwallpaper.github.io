@@ -38,7 +38,7 @@ features                                  :
 
   - title                                 : High speed, Multiple nodes
     description                           : Enjoy lightning-fast speeds and connect to a vast network of nodes for optimal performance and versatility.
-    fontawesome_icon_name                 : bolt-lightning
+    fontawesome_icon_name                 : rocket-launch
     
   - title                                 : Security, Privacy, No logs
     description                           : Safeguard your online activities, maintain complete privacy, and have peace of mind knowing that no logs are kept.
@@ -46,7 +46,7 @@ features                                  :
 
   - title                                 : Free, No time limits
     description                           : Experience the freedom of a free VPN without any time restrictions, allowing you to stay protected and connected at all times.
-    fontawesome_icon_name                 : creative-commons-nc
+    fontawesome_icon_name                 : mug-hot
 
   
 
