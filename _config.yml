@@ -36,17 +36,17 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : High speed, Multiple nodes
+    description                           : Enjoy lightning-fast speeds and connect to a vast network of nodes for optimal performance and versatility.
+    fontawesome_icon_name                 : bolt-lightning
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Security, Privacy, No logs
+    description                           : Safeguard your online activities, maintain complete privacy, and have peace of mind knowing that no logs are kept.
+    fontawesome_icon_name                 : user-shield
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Free, No time limits
+    description                           : Experience the freedom of a free VPN without any time restrictions, allowing you to stay protected and connected at all times.
+    fontawesome_icon_name                 : creative-commons-nc
 
   
 
