@@ -69,5 +69,5 @@ This policy is effective as of 2023-05-06
 
 ## Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at assassinstudio45@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at assassinstudio46@gmail.com.
 
