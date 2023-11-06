@@ -2,7 +2,7 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 6471396604                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           :                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             : https://play.google.com/store/apps/details?id=com.assassin.whalevpn                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
@@ -11,9 +11,9 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Stadium Explorer                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : ASketcher                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Discover the world of NBA arenas 
+app_description                           : Art app with 9 drawing colorful tools 
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -36,22 +36,21 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Map Display
-    description                           : Explore Arena Locations，Accurate Navigation，Your Essential Guide
+  - title                                 : Artistic Tools
+    description                           : ASketcher offers a diverse range of drawing tools, from pencils to markers, for expressing your creativity.
     fontawesome_icon_name                 : rocket
     
-  - title                                 : Image Showcase
-    description                           : Captivating Imagery，The Beauty of Arenas，Visual Memories
+  - title                                 : Vibrant Colors
+    description                           : Dive into a world of colors with an extensive palette to find the perfect shades for your artwork.
     fontawesome_icon_name                 : user-shield
 
-  - title                                 : Team List
-    description                           : Global Team Roster，Complete Lineup，Team Profiles
+  - title                                 : Customizable Stickers
+    description                           : Elevate your art by adding and customizing stickers to fit your vision, with the option to remove them when needed.
     fontawesome_icon_name                 : mug-hot
 
   
-
-  - title                                 : Team Info
-    description                           : Team Details，Historical Glory，Team Spirit
+  - title                                 : Save and Share
+    description                           : Showcase your artwork by saving it to your device's gallery and sharing it with friends and family.
     fontawesome_icon_name                 : mug-hot
 
 
