@@ -5,25 +5,25 @@ page_title                                :                                     
 ios_app_id                                :                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           :                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
-appstore_link                             : https://play.google.com/store/apps/details?id=com.kunlung.kjvbible                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             : https://play.google.com/store/apps/details?id=com.kirin.wallpaper                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                            # Enter Google Play Store URL.
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : KJV Bible                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : WallpaperVerse                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : KJV Bible Reader and Study Tool
+app_description                           : Discover a universe of stunning wallpapers tailored to your style with WallpaperVerse.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Assassin Studio                                
+your_name                                 : Kirin Studio                                
 your_link                                 :            
 your_city                                 : Copenhagen                                
-email_address                             : assassinstudio45@gmail.com
+email_address                             : 1067300893@qq.com
 facebook_username                         :                                           
 instagram_username                        :  
 twitter_username                          :   
@@ -36,21 +36,21 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Choose Chapters
-    description                           : Explore any chapter freely with our intuitive selection feature.
+  - title                                 : Rich Image Categories
+    description                           : Discover Diverse Collections, Explore a wide array of image categories, offering an extensive range of wallpapers for every taste and style.
     fontawesome_icon_name                 : rocket
     
-  - title                                 : Dynamic Background
-    description                           : Enhance your reading experience with dynamic background options..
+  - title                                 : Latest Images
+    description                           : Stay Updated, Access the freshest wallpapers regularly updated to keep your device looking sleek and modern.
     fontawesome_icon_name                 : user-shield
 
-  - title                                 : Listen to Scriptures
-    description                           : Listen to the Scriptures Audio feature for an immersive experience.
+  - title                                 : Convenient Search Functionality
+    description                           : Effortless Exploration, Seamlessly search for wallpapers using our user-friendly and efficient search feature, ensuring you find the perfect wallpaper in no time.
     fontawesome_icon_name                 : mug-hot
 
   
-  - title                                 : Take Notes
-    description                           : Take insightful notes and reflections seamlessly within the app.
+  - title                                 : Wallpaper Management
+    description                           : Collect, Save, and Set, Save your favorite wallpapers, collect them for easy access, and set them as your device's wallpaper with ease. Enjoy a hassle-free wallpaper customization experience
     fontawesome_icon_name                 : mug-hot
 
 
